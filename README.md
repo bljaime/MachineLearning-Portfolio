@@ -6,7 +6,7 @@ This repository gathers all my Machine Learning work.
 
 - ### Linear Regression
 
-  - [Boston Housing Dataset](url-ipynb file): The Boston Housing Dataset consists of 506 instances an 13 attributes.
+  - [Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/Exerc_2_Regresi%C3%B3n_Lineal.ipynb): The Boston Housing Dataset consists of 506 instances an 13 attributes.
 
 
 
