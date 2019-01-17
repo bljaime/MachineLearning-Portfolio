@@ -9,7 +9,7 @@ This repository gathers all my public Machine Learning work. Each project is con
 
 - ### Linear Regression
 
-  - [Simple Linear Regresion - Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/GH1LR.ipynb): Predicting the median value of a home in Boston Housing Dataset based on the *number of rooms*. Includes **Exploratory Data Analysis**, **Ordinary Least Squares regression** and using **scikit-learn’s LinearRegression** module.
+  - [Simple Linear Regresion - Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/GH1LR.ipynb): Predicting the median value of a home in Boston Housing Dataset based on the *number of rooms*. Includes **Exploratory Data Analysis**,  **Ordinary Least Squares regression** and **scikit-learn’s LinearRegression** module implementation.
   
   - [Multiple Linear Regresion - Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/Exerc_2_Regresi%C3%B3n_Lineal.ipynb): Predicting the median value of a home in Boston Housing Dataset according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. Includes **Exploratory Data Analysis**, **Ordinary Least Squares regression** and using **scikit-learn’s LinearRegression** module.
 
