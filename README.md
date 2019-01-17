@@ -1,12 +1,17 @@
 # Machine Learning Portfolio
 
-This repository gathers all my Machine Learning work.
+**Author**: Jaime Blanco Linares.
+
+
+This repository gathers all my public Machine Learning work. Each project is constructed on a Jupyter Notebook, which contains python code, text explainations and figures.
 
 ## Projects
 
 - ### Linear Regression
 
-  - [Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/Exerc_2_Regresi%C3%B3n_Lineal.ipynb): The Boston Housing Dataset consists of 506 instances an 13 attributes.
+  - [Simple Linear Regresion - Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/GH1LR.ipynb): Predicting the median value of a home in Boston Housing Dataset based on the *number of rooms*. Includes **Exploratory Data Analysis**, **Ordinary Least Squares regression** and using **scikit-learn’s LinearRegression** module.
+  
+  - [Multiple Linear Regresion - Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/Exerc_2_Regresi%C3%B3n_Lineal.ipynb): Predicting the median value of a home in Boston Housing Dataset according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. Includes **Exploratory Data Analysis**, **Ordinary Least Squares regression** and using **scikit-learn’s LinearRegression** module.
 
 
 
@@ -16,4 +21,4 @@ Jaime Blanco Linares.
 Computer Engineer.
 24 y/o, living in Madrid (Spain).
 
-I hope you all liked it. Any comment or suggestion abot the portfolio, job offers or collaboration proposals, will be thankfully received and replied at blancolinares.jaime@gmail.com
+Any comment or suggestion about the portfolio, job offers or collaboration proposals, will be thankfully received and replied at blancolinares.jaime@gmail.com
