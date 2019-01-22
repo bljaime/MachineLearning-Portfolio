@@ -10,10 +10,11 @@ This repository gathers all my public Machine Learning work. Each project is con
 
 - ### Linear Regression
 
-  - [Simple Linear Regresion - Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P1_SimpleLinearRegression.ipynb): Predicting the median value of a home in Boston Housing Dataset based on the *number of rooms*. Includes **Exploratory Data Analysis**,  **Ordinary Least Squares regression** and **scikit-learn’s LinearRegression** module implementation.
+  - [Simple Linear Regression - *Boston Housing Dataset*](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P1_SimpleLinearRegression.ipynb): Predicting the median value of a house based on the *number of rooms*. Includes **Exploratory Data Analysis**,  **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
   
-  - [Multiple Linear Regresion - Boston Housing Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P2_MultipleLinearRegression.ipynb): Predicting the median value of a home in Boston Housing Dataset according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. Includes **Exploratory Data Analysis**, **Ordinary Least Squares regression** and using **scikit-learn’s LinearRegression** module implementation.
+  - [Multiple Linear Regression - *Boston Housing Dataset*](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P2_MultipleLinearRegression.ipynb): Predicting the median value of a house according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. Includes **Exploratory Data Analysis**, **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
 
+  - [Polynomial Regression - Insurance Claims Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P3_PolynomialRegression.ipynb): Predicting the number of complaints in an insurance company by year. Includes a comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation.
 
 
 ## About me
