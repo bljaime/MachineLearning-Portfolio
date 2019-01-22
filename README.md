@@ -4,7 +4,7 @@
 **Author**: Jaime Blanco Linares.
 
 
-This repository gathers all my public Machine Learning work. Each project is constructed on a Jupyter Notebook, which contains **Python** code, text explainations and figures.
+This repository gathers some of my public Machine Learning work. Each project is constructed on a Jupyter Notebook, which contains **Python** code, text explainations and figures.
 
 ## Projects
 
