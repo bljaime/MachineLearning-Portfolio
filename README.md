@@ -13,8 +13,14 @@ This repository gathers all my public Machine Learning work. Each project is con
   - [Simple Linear Regression - *Boston Housing Dataset*](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P1_SimpleLinearRegression.ipynb): Predicting the median value of a house based on the *number of rooms*. Includes **Exploratory Data Analysis**,  **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
   
   - [Multiple Linear Regression - *Boston Housing Dataset*](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P2_MultipleLinearRegression.ipynb): Predicting the median value of a house according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. Includes **Exploratory Data Analysis**, **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
+  
+ - ### Polynomial Regression
 
   - [Polynomial Regression - Insurance Claims Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P3_PolynomialRegression.ipynb): Predicting the number of complaints in an insurance company by year. Includes a comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation.
+
+ - ### Logistic Regression
+
+  - [Logistic Regression - a](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P3_PolynomialRegression.ipynb): Predicting the number of complaints in an insurance company by year. Includes a comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation.
 
 
 ## About me
