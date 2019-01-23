@@ -20,7 +20,11 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Logistic Regression
 
-  - [Logistic Regression - a](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P3_PolynomialRegression.ipynb): Predicting the number of complaints in an insurance company by year. Includes a comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation.
+  - [Logistic Regression - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Predicting whether the identified cells are Benign or Malignant. Includes **Exploratory Data Analysis** and **Scikit-learn’s** implementation.
+
+- ### Classification, Supervised Learning
+
+  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying unlabeled wines according to their characteristic attributes, such as their alcohol content, acidity or magnesium levels, among others. Includes an **in-house implementation based on the k-NN theory** (in which dataset wines are identified and represented by colors) and **Scikit-learn’s** implementation with **k-Fold Cross-Validation**.
 
 
 ## About me
