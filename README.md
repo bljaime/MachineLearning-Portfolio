@@ -4,7 +4,7 @@
 **Author**: Jaime Blanco Linares.
 
 
-This repository gathers some of my public Machine Learning work. Each project is constructed on a Jupyter Notebook, which contains **Python** code, text explainations and figures.
+This repository gathers some of my public Machine Learning work. Each project is constructed on a Jupyter Notebook, which contains **Python** code, text explainations and figures.  **NOTE**: I am doing my best to decorate and upload the missing notebooks to the repository as soon as possible.
 
 ## Projects
 
@@ -24,7 +24,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Classification - Supervised Learning
 
-  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. An **in-house implementation based on the k-NN algorithm theory** (in which dataset wines are identified and represented by colors) and **Scikit-learn’s** implementation with **k-Fold Cross-Validation**.
+  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. An **in-house implementation based on the k-NN algorithm theory** (in which dataset wines are identified and represented by colors), and **Scikit-learn’s** implementation with **k-Fold Cross-Validation**.
 
 - ### Clustering - Unsupervised Learning
 
@@ -59,7 +59,7 @@ This repository gathers some of my public Machine Learning work. Each project is
   -----
   ## Personal Project
 
-  - [Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Clustering the different types of customers of a bank and predicting their abandonment (*churn rate* prediction). The implementation of this project would have a great impact on the economy of any company with a large number of clients, since the models we have designed predict with a high accuracy whether a client will eventually leave the bank, and in that case would allow the entity to carry out a series of actions that guarantee their loyalty. In this notebook you can see: **Data Preprocessing**, **study of the Correlation between the attributes**, **Data Visualization*, **K-Means Clustering**, **techniques to handle Imbalanced Data**, **Logistic Regression** and **Multi-Layer Perceptron** based models, as well as a detailed justification of the choice of the different hyperparameters of the Neural Network model.
+  - [Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Clustering the different types of customers of a bank and predicting their abandonment (*churn rate* prediction). The implementation of this project would have a great impact on the economy of any company with a large number of clients, since the models we have designed predict with a high accuracy whether a client will eventually leave the bank, and in that case would allow the entity to carry out a series of actions that guarantee their loyalty. In this notebook you can see: **Data Preprocessing**, **study of the Correlation between the attributes**, **Data Visualization**, **K-Means Clustering**, **techniques to handle Imbalanced Data**, **Logistic Regression** and **Multi-Layer Perceptron** based models, as well as a detailed justification of the choice of the different hyperparameters of the Neural Network model.
   
   
 ## About me
