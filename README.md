@@ -38,7 +38,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Multi-Layer Perceptron
 
-  - [Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tf.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
+  - [Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tensorflow.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
  
   - [**BONUS**: Data Augmentation. Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Data Augmentation in MNIST Dataset to check how robust is the model based on an MLP from the previous notebook: **translations**, **rotations**, and **noise**.
   
@@ -46,20 +46,20 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Convolutional Neural Networks
 
-  - [Convolutional Neural Networks - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tf.keras***.
+  - [Convolutional Neural Networks - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
-  - [Convolutional Neural Networks - CIFAR-100 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying 60000 tiny coloured images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tf.keras***.
+  - [Convolutional Neural Networks - CIFAR-100 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying 60000 tiny coloured images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
 - ### Autoencoders
 
-  - [Autoencoders - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Encoding of handwritten numbers and representation in their latent space. Designing, training and results discusion achieved by an Autoencoder with ***tf.keras***.
+  - [Autoencoders - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Encoding of handwritten numbers and representation in their latent space. Designing, training and results discusion achieved by an Autoencoder with ***tensorflow.keras***.
   
-  - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Reconstruction of coloured noisy images with Convolutional Autoencoders (*Denoiser Autoencoder*). Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tf.keras***.
+  - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Reconstruction of coloured noisy images with Convolutional Autoencoders (*Denoiser Autoencoder*). Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
   
   -----
   ## Personal Project
 
-  - [Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Clustering the different types of customers of a bank and predicting their abandonment (*churn rate* prediction). The implementation of this project would have a great impact on the economy of any company with a large number of clients, since the models we have designed predict with a high accuracy whether a client will eventually leave the bank, and in that case would allow the entity to carry out a series of actions that guarantee their loyalty. In this notebook you can see: **Data Preprocessing**, **study of the Correlation between the attributes**, **Data Visualization**, **K-Means Clustering**, **techniques to handle Imbalanced Data**, **Logistic Regression** and **Multi-Layer Perceptron** based models, as well as a detailed justification of the choice of the different hyperparameters of the Neural Network model.
+  - [Bank customer clustering and churn prediction](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Clustering the different types of customers of a bank and predicting their abandonment (*churn rate* prediction). The implementation of this project would have a great impact on the economy of any company with a large number of clients, since the models we have designed predict with a high accuracy whether a client will eventually leave the bank, and in that case would allow the entity to carry out a series of actions that guarantee their loyalty. In this notebook you can see: **Data Preprocessing**, **study of the Correlation between the attributes**, **Data Visualization**, **K-Means Clustering**, **techniques to handle Imbalanced Data**, **Logistic Regression** and **Multi-Layer Perceptron regression**, as well as a detailed justification of the choice of the different hyperparameters of the Neural Network model.
   
   
 ## About me
