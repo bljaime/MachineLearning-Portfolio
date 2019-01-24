@@ -40,13 +40,13 @@ This repository gathers some of my public Machine Learning work. Each project is
 
   - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tensorflow.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
  
-  - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P9_DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the MLP model from the previous notebook, trained only with non-distorted images.
+  - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P9_DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook, trained only with non-distorted images.
   
-  - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Predicting whether the identified cells are *Benign* or *Malignant* with Deep Neural Networks (MLP).
+  - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying whether the identified cells are *Benign* or *Malignant* with Multi-Layer Perceptron.
 
 - ### Convolutional Neural Networks
 
-  - [Convolutional Neural Networks - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
+  - [Convolutional Neural Networks - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying original and distorted handwritten numbers in MNIST with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
   - [Convolutional Neural Networks - CIFAR-100 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying 60000 tiny coloured images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
