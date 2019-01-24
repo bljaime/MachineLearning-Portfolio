@@ -32,29 +32,33 @@ This repository gathers some of my public Machine Learning work. Each project is
   
 - ### Semi-Supervised Classifier
 
-  - [K-Means - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers using only a very small portion of the labels. **Exploratory Data Analysis** and a semi-supervised approach to the problem: **K-Means algorithm with Scikit-learn**, assignment of labels to clusters according to the most frequent label of each cluster elements, and use of several metrics to evaluate the quality of the models. Further, the effectiveness of **k-NN** and **Logistic Regression** for the resolution of this problem is checked.
+  - [K-Means - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers using only a very small portion of the labels. **Exploratory Data Analysis** and a semi-supervised approach to the problem: **K-Means algorithm with Scikit-learn**, assignment of labels to clusters according to the most frequent label of each cluster elements, and use of several metrics to evaluate the quality of the models. Further, the effectiveness of **k-NN** and **Logistic Regression** for the resolution of this problem is checked.
   -----
   ## Neural Networks and Deep Learning:
 
 - ### Multi-Layer Perceptron
 
-  - [Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tensorflow.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
+  - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tensorflow.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
  
-  - [**BONUS**: Data Augmentation. Multi-Layer Perceptron - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Data Augmentation in MNIST Dataset to check how robust is the model based on an MLP from the previous notebook: **translations**, **rotations**, and **noise**.
+  - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P9_DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the MLP model from the previous notebook, trained only with non-distorted images.
   
   - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Predicting whether the identified cells are *Benign* or *Malignant* with Deep Neural Networks (MLP).
 
 - ### Convolutional Neural Networks
 
-  - [Convolutional Neural Networks - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
+  - [Convolutional Neural Networks - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying handwritten numbers with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
   - [Convolutional Neural Networks - CIFAR-100 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying 60000 tiny coloured images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
 - ### Autoencoders
 
-  - [Autoencoders - MNIST Dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Encoding of handwritten numbers and representation in their latent space. Designing, training and results discusion achieved by an Autoencoder with ***tensorflow.keras***.
+  - [Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Encoding of handwritten numbers and representation in their latent space. Designing, training and results discusion achieved by an Autoencoder with ***tensorflow.keras***.
   
   - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Reconstruction of coloured noisy images with Convolutional Autoencoders (*Denoiser Autoencoder*). Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
+  
+  -----
+  
+    - [**BONUS**: How to save your already trained models with Keras](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Re-training your model whenever you want to use it is not necessary. This notebook describes how to **save your trained models**, so you can reload them in the future when you want to use them.
   
   -----
   ## Personal Project
