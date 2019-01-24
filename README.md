@@ -10,13 +10,13 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Linear Regression
 
-  - [Simple Linear Regression - *Boston Housing* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P1_SimpleLinearRegression.ipynb): Predicting the median value of a house based on the *number of rooms*. **Exploratory Data Analysis**,  **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
+  - [Simple Linear Regression - *Boston Housing* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P1_SimpleLinearRegression_Boston.ipynb): Predicting the median value of a house based on the *number of rooms*. **Exploratory Data Analysis**,  **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
   
-  - [Multiple Linear Regression - *Boston Housing* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P2_MultipleLinearRegression.ipynb): Predicting the median value of a house according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. **Exploratory Data Analysis**, **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
+  - [Multiple Linear Regression - *Boston Housing* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P2_MultipleLinearRegression_Boston.ipynb): Predicting the median value of a house according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. **Exploratory Data Analysis**, **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
   
 - ### Polynomial Regression
 
-  - [Polynomial Regression - Insurance Claims dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P3_PolynomialRegression.ipynb): Predicting the *number of complaints* in an insurance company by year. A comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation.
+  - [Polynomial Regression - Insurance Claims dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P3_PolynomialRegression_Insurance.ipynb): Predicting the *number of complaints* in an insurance company by year. A comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation.
 
 - ### Logistic Regression
 
@@ -38,11 +38,11 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Multi-Layer Perceptron
 
-  - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tensorflow.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
+  - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron_MNIST.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tensorflow.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
  
   - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P9_DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook, trained only with non-distorted images.
   
-  - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying whether the identified cells are *Benign* or *Malignant* with Multi-Layer Perceptron.
+  - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P10_MultiLayerPerceptron_BreastCancer.ipynb): Classifying whether the identified cells present in digitalized images of breast mass are *Benign* or *Malignant* with a Multi-Layer Perceptron model.
 
 - ### Convolutional Neural Networks
 
