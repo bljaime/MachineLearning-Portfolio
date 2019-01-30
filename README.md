@@ -46,9 +46,9 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Convolutional Neural Networks
 
-  - [Convolutional Neural Networks - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying original and distorted handwritten numbers in MNIST with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
+  - [Convolutional Neural Networks - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P11_ConvolutionalNN_MNIST.ipynb): Classifying original and distorted handwritten numbers in MNIST with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
-  - [Convolutional Neural Networks - CIFAR-100 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying 60000 tiny coloured images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
+  - [Convolutional Neural Networks - CIFAR-10 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying 60000 tiny coloured images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
 - ### Autoencoders
 
@@ -72,4 +72,4 @@ Jaime Blanco Linares.
 Computer Engineer.
 24 y/o, living in Madrid (Spain).
 
-Any comment or suggestion about the portfolio, job offers or collaboration proposals, will be thankfully received and replied at blancolinares.jaime@gmail.com
+Any comment, suggestion about the portfolio or collaboration proposal, will be thankfully received and replied at blancolinares.jaime@gmail.com
