@@ -58,7 +58,7 @@ This repository gathers some of my public Machine Learning work. Each project is
   
 - ### Autoencoders
 
-  - [Convolutional Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Denoiser autoencoder for handwritten numbers and representation in their latent space. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
+  - [Convolutional Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P13_ConvolutionalAutoencoders_MNIST.ipynb): Denoiser autoencoder for distorted handwritten numbers and linear interpolation in the latent space. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
   
   - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Reconstruction of coloured noisy images with Convolutional Autoencoders (*Denoiser Autoencoder*). Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
   
