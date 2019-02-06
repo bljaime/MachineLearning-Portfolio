@@ -54,14 +54,13 @@ This repository gathers some of my public Machine Learning work. Each project is
 
   - [Convolutional Neural Networks - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P11_ConvolutionalNN_MNIST.ipynb): Classifying original and distorted handwritten numbers in MNIST with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
-  - [Convolutional Neural Networks - CIFAR-10 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P12_ConvolutionalNN_CIFAR10.ipynb): Classifying 60000 tiny coloured images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
+  - [Convolutional Neural Networks - CIFAR-10 dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P12_ConvolutionalNN_CIFAR10.ipynb): Classifying 60000 tiny colored images with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
 - ### Autoencoders
 
-  - [Convolutional Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P13_ConvolutionalAutoencoders_MNIST.ipynb): Denoiser autoencoder for distorted handwritten numbers and linear interpolation in the latent space. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
+  - [Convolutional Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P13_ConvolutionalAutoencoders_MNIST.ipynb): Reconstruction of handwritten **MNIST** numbers with Convolutional Autoencoders, (*Denoiser Autoencoder*) and linear interpolation in latent space. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
   
-  - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Reconstruction of coloured noisy images with Convolutional Autoencoders (*Denoiser Autoencoder*). Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
-  
+  - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P14_ConvolutionalAutoencoders_Tiny_imagenet.ipynb): Reconstruction of colored noisy images with Convolutional Autoencoders, (*Denoiser Autoencoder*) and linear interpolation in latent space. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
 
   ## Personal Project
 
