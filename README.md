@@ -38,11 +38,11 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Multi-Layer Perceptron
 
-  - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron_MNIST.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on the **Keras** library (in particular ***tensorflow.keras***), with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy**.
+  - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P8_MultiLayerPerceptron_MNIST.ipynb): Classifying handwritten numbers with multiple fully-connected layers. Designing and training of a Multi-Layer Perceptron based on ***tensorflow.keras***, with the justification of each decision taken in the selection of architecture, techniques and parameters, and the subsequent analysis of its **loss** and **accuracy** (With demonstrative purposes, since MLP is not suitable for image classification).
  
   - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P9_DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook, trained only with non-distorted images.
   
-  - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P10_MultiLayerPerceptron_BreastCancer.ipynb): Classifying whether the identified cells present in digitalized images of breast mass are *Benign* or *Malignant* with a Multi-Layer Perceptron model.
+  - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P10_MultiLayerPerceptron_BreastCancer.ipynb): Classifying whether the identified cells present in digitalized images of breast mass are *Benign* or *Malignant* with a Multi-Layer Perceptron based on ***tensorflow.keras***.
   
   -----
   
