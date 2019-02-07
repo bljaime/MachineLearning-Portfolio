@@ -20,7 +20,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Logistic Regression
 
-  - [Logistic Regression - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Predicting whether the identified cells are *Benign* or *Malignant*. **Exploratory Data Analysis** and **Scikit-learn’s** implementation.
+  - [Logistic Regression - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P4_LogisticRegression_BreastCancer.ipynb): Predicting whether the identified cells are *Benign* or *Malignant*. **Exploratory Data Analysis**, several models **Scikit-learn’s** implementation and selection of the fittest classifier.
 
 - ### Classification - Supervised Learning
 
