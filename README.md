@@ -24,7 +24,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Classification - Supervised Learning
 
-  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. An **in-house implementation based on the k-NN algorithm theory** (in which dataset wines are identified and represented by colors), and **Scikit-learn’s** implementation with **k-Fold Cross-Validation**.
+  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P5_kNearestNeighbor_Wine.ipynb): Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. **In-house implementation based on the k-NN algorithm criteria** (in which wines classification boundaries are represented by colors), and **Scikit-learn’s** implementation with **k-Fold Cross-Validation**.
 
 - ### Clustering - Unsupervised Learning
 
@@ -43,12 +43,6 @@ This repository gathers some of my public Machine Learning work. Each project is
   - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P9_DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook, trained only with non-distorted images.
   
   - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P10_MultiLayerPerceptron_BreastCancer.ipynb): Classifying whether the identified cells present in digitalized images of breast mass are *Benign* or *Malignant* with a Multi-Layer Perceptron based on ***tensorflow.keras***.
-  
-  -----
-  
-    - [**BONUS**: How to save your already trained models with Keras](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Re-training your model whenever you want to use it is not necessary. This notebook describes how to **save your trained models**, so you can reload them in the future.
-  
-  -----
 
 - ### Convolutional Neural Networks
 
