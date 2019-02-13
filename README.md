@@ -28,7 +28,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Clustering - Unsupervised Learning
 
-  - [K-Means - Iris Flower dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/maintenance): (UNDER MAINTENANCE) Dividing unlabeled flowers into clusters or groups. An extensive **in-house implementation based on the k-Means algorithm theory**, in which the involved centroids are updated in each iteration and shown graphically. The *Elbow method* is applied.
+  - [K-Means - Iris Flower dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/P6_K_Means_IrisFlower.ipynb): Dividing unlabeled flowers into clusters or groups. Extensive **in-house implementation based on the k-Means algorithm theory**, in which the involved centroids position is updated and graphically shown in each iteration. Within Cluster Sum of Squares (WCSS) is calculated for different k-Means executions, varying the number of clusters, and the *Elbow method* is applied.
   
 - ### Semi-Supervised Classifier
 
