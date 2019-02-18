@@ -1,4 +1,5 @@
 <!--- Futuro: Pasar de markdown a html para poder meterle un css y que no sea tan soso -->
+
 # Machine Learning Portfolio
 
 **Author**: Jaime Blanco Linares.
@@ -12,12 +13,17 @@ This repository gathers some of my public Machine Learning work. Each project is
 - ### Linear Regression
 
   - [Simple Linear Regression - *Boston Housing* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/SimpleLinearRegression_Boston.ipynb): Predicting the median value of a house based on the *number of rooms*. **Exploratory Data Analysis**,  **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
+
+<p align="center">
+  <img src="/img/SimpleLR.png"/>
+</p>
+<!---  ![SLR](/img/SimpleLR.png) --->
   
   - [Multiple Linear Regression - *Boston Housing* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/MultipleLinearRegression_Boston.ipynb): Predicting the median value of a house according to the *number of rooms*, *percentage of lower status population* and *pupil-teacher ratio*. **Exploratory Data Analysis**, **Ordinary Least Squares regression** and **Scikit-learn’s** implementation.
   
 - ### Polynomial Regression
 
-  - [Polynomial Regression - Insurance Claims dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/PolynomialRegression_Insurance.ipynb): Predicting the *number of complaints* in an insurance company by year. Comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation.
+  - [Polynomial Regression - Insurance Claims dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/PolynomialRegression_Insurance.ipynb): Predicting the *number of complaints* in an insurance company by year. Comparison between Polynomial Regression and Linear Regression, **Ordinary Least Squares in Polynomial Regression** and **Scikit-learn’s** implementation. ![PR](/img/PolyR.png)
 
 - ### Logistic Regression
 
@@ -25,11 +31,11 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Classification - Supervised Learning
 
-  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/kNearestNeighbor_Wine.ipynb): Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. **In-house implementation based on the k-NN algorithm criteria**, in which wines classification boundaries are delimited by colors. **Scikit-learn’s** implementation with **k-Fold Cross-Validation**.
+  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/kNearestNeighbor_Wine.ipynb): Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. **In-house implementation based on the k-NN algorithm criteria**, in which wines classification boundaries are delimited by colors. **Scikit-learn’s** implementation with **k-Fold Cross-Validation**. ![kNN](/img/k-NN.png)
 
 - ### Clustering - Unsupervised Learning
 
-  - [K-Means - Iris Flower dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/kMeans_IrisFlower.ipynb): Dividing unlabeled flowers into clusters or groups. Extensive **in-house implementation based on the k-Means algorithm theory**, in which the positions of the centroids involved are updated and graphically shown in each iteration. **Within Cluster Sum of Squares** (WCSS) is calculated for different k-Means executions, varying the number of clusters, and the **Elbow method** is applied.
+  - [K-Means - Iris Flower dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/kMeans_IrisFlower.ipynb): Dividing unlabeled flowers into clusters or groups. Extensive **in-house implementation based on the k-Means algorithm theory**, in which the positions of the centroids involved are updated and graphically shown in each iteration. **Within Cluster Sum of Squares** (WCSS) is calculated for different k-Means executions, varying the number of clusters, and the **Elbow method** is applied. ![kM](/img/k-Means.png)
   
 - ### Semi-Supervised Classifier
 
@@ -41,7 +47,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
   - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/MultiLayerPerceptron_MNIST.ipynb): **Classifying handwritten numbers** with multiple fully-connected layers. Designing and training a Multi-Layer Perceptron based on ***tensorflow.keras*** (only with demonstrative purposes, since MLP is not suitable for image classification).
  
-  - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook when **classifying distorted images**.
+  - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook when **classifying distorted images**. ![dAug](/img/dAugm.png)
   
   - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/MultiLayerPerceptron_BreastCancer.ipynb): **Classifying** whether the identified **cells** present in digitalized images of breast mass are ***Benign*** or ***Malignant*** with a Multi-Layer Perceptron based on ***tensorflow.keras***.
 
@@ -53,13 +59,13 @@ This repository gathers some of my public Machine Learning work. Each project is
   
 - ### Autoencoders
 
-  - [Convolutional Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/ConvolutionalAutoencoders_MNIST.ipynb): **Reconstruction** of handwritten **MNIST** numbers with Convolutional Autoencoders and **linear interpolations in latent space**. Architecture designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
+  - [Convolutional Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/ConvolutionalAutoencoders_MNIST.ipynb): **Reconstruction** of handwritten **MNIST** numbers with Convolutional Autoencoders and **linear interpolations in latent space**. Architecture designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***. ![lInt](/img/interp.png)
   
-  - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/ConvolutionalAutoencoders_Tiny_imagenet.ipynb): **Reconstruction** of colored noisy images with Convolutional Autoencoders, ***Denoiser Autoencoder*** and **linear interpolation in latent space**. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
+  - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/ConvolutionalAutoencoders_Tiny_imagenet.ipynb): **Reconstruction** of colored noisy images with Convolutional Autoencoders, ***Denoiser Autoencoder*** and **linear interpolation in latent space**. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***. ![den](/img/denoisCAE.png)
 
   ## Personal Project
 
-  - [Bank Customer Clustering and Churn Prediction](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/Customer_Clustering_and_Churn_Prediction.ipynb): Clustering the different types of customers of a bank and predicting their abandonment (*churn rate* prediction). The implementation of this project would have a great impact on the economy of any company with a large number of customers, since the models we have designed can classify between loyal customers and customers with a high likelihood of leaving the bank. In this notebook you can see: An **Extensive Exploratory Data Analysis (Visualizing the Distributions, Valuable Information about Customers and Correlation between the Variables)**, **Customer Clusterization (Visualizing the New Space, Finding Clusters with k-Means and Visualizing and Understanding Clusters)**, **How to Handle Imbalanced Classes**, **Classifiers based on Neural network models (Multi-Layer Perceptron)** and **Receiver Operator Characteristic (ROC) Curve as an alternative to accuracy metric**.
+  - [Bank Customer Clustering and Churn Prediction](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/Customer_Clustering_and_Churn_Prediction.ipynb): Clustering the different types of customers of a bank and predicting their abandonment (*churn rate* prediction). The implementation of this project would have a great impact on the economy of any company with a large number of customers, since the models we have designed can classify between loyal customers and customers with a high likelihood of leaving the bank. In this notebook you can see: An **Extensive Exploratory Data Analysis (Visualizing the Distributions, Valuable Information about Customers and Correlation between the Variables)**, **Customer Clusterization (Visualizing the New Space, Finding Clusters with k-Means and Visualizing and Understanding Clusters)**, **How to Handle Imbalanced Classes**, **Classifiers based on Neural network models (Multi-Layer Perceptron)** and **Receiver Operator Characteristic (ROC) Curve as an alternative to accuracy metric**.  ![bCust](/img/bankCustomers.png)
   
 ## Acknowledgements
 
