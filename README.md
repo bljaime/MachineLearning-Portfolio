@@ -43,7 +43,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
   - [Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/MultiLayerPerceptron_MNIST.ipynb): **Classifying handwritten numbers** with multiple fully-connected layers. Designing and training a Multi-Layer Perceptron based on ***tensorflow.keras*** (only with demonstrative purposes, since MLP is not suitable for image classification).
  
-  - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook when **classifying distorted images**. <img src="/img/dAugm.png"/>
+  - [Data Augmentation. Multi-Layer Perceptron - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/DataAugmentation_MLP_MNIST.ipynb): **Data Augmentation** in MNIST dataset images, concretely **translating**, **rotating**, and **adding noise**, to check how robust is the Multi-Layer Perceptron model from the previous notebook when **classifying distorted images**. <img src="/img/datAug.png"/>
   
   - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/MultiLayerPerceptron_BreastCancer.ipynb): **Classifying** whether the identified **cells** present in digitalized images of breast mass are ***Benign*** or ***Malignant*** with a Multi-Layer Perceptron based on ***tensorflow.keras***.
 
@@ -65,7 +65,7 @@ This repository gathers some of my public Machine Learning work. Each project is
   
 ## Acknowledgements
 
-The development of this material would not have been possible without [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg).
+- [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg).
   
 ## About me
 
