@@ -35,7 +35,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
   - [K-Means - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/SemiSupervised_MNIST.ipynb): Classifying handwritten numbers using only a very small portion of the labels. **Exploratory Data Analysis**, **Semi-Supervised** approach (**K-Means algorithm with Scikit-learn**, assignment of labels to clusters according to the most frequent label of each cluster elements, checking only 0.25% of the labels) and implementation of a **k-NN** classifier to discuss both models performance.
   -----
- ## Neural Networks and Deep Learning:
+  ## Neural Networks and Deep Learning:
 
 - ### Multi-Layer Perceptron (MLP)
 
@@ -57,7 +57,7 @@ This repository gathers some of my public Machine Learning work. Each project is
   
   - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/ConvolutionalAutoencoders_Tiny_imagenet.ipynb): **Reconstruction** of colored noisy images with Convolutional Autoencoders, ***Denoiser Autoencoder*** and **linear interpolation in latent space**. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***.
 
- ## Personal Project
+  ## Personal Project
 
   - [Bank Customer Clustering and Churn Prediction](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/Customer_Clustering_and_Churn_Prediction.ipynb): Clustering the different types of customers of a bank and predicting their abandonment (*churn rate* prediction). The implementation of this project would have a great impact on the economy of any company with a large number of customers, since the models we have designed can classify between loyal customers and customers with a high likelihood of leaving the bank. In this notebook you can see: An **Extensive Exploratory Data Analysis (Visualizing the Distributions, Valuable Information about Customers and Correlation between the Variables)**, **Customer Clusterization (Visualizing the New Space, Finding Clusters with k-Means and Visualizing and Understanding Clusters)**, **How to Handle Imbalanced Classes**, **Classifiers based on Neural network models (Multi-Layer Perceptron)** and **Receiver Operator Characteristic (ROC) Curve as an alternative to accuracy metric**.
   
