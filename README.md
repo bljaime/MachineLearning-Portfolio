@@ -5,7 +5,7 @@
 
 This repository gathers some of my public Machine Learning work. Each project is constructed on a *Jupyter Notebook*, which contains **Python** code, text explainations and figures.
 
-**NOTE**: It's often the case that you get the message "*Sorry, something went wrong. Reload?*" when visualizing an *.ipynb* (*Jupyter Notebook* file) on a GitHub blob page. This probably concerns the GitHub notebook viewing tool, as sometimes GitHub fails to render the *.ipynb* notebooks. As it seems to be a temporary issue with their backend, please refresh the page until you can view the entire file, in case you have this problem.
+**NOTE**: It's often the case that you get the message "*Sorry, something went wrong. Reload?*" when visualizing an *.ipynb* (*Jupyter Notebook* file) on a GitHub blob page. This probably concerns the GitHub notebook viewing tool, as sometimes GitHub fails to render the *.ipynb* notebooks. As it seems to be a temporary issue with their backend, please refresh the page until you can view the entire file in case you have this problem, or, in exceptional circumstances, use [nbviewer](https://nbviewer.jupyter.org/).
 
 ## Projects
 
