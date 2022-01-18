@@ -27,7 +27,7 @@ This repository gathers some of my public Machine Learning work. Each project is
 
 - ### Classification - Supervised Learning
 
-  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/kNearestNeighbor_Wine.ipynb): Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. **In-house implementation based on the k-NN algorithm criteria**, in which wines classification boundaries are delimited by colors. **Scikit-learn’s** implementation with **k-Fold Cross-Validation**. <p align="center"> <img src="/img/k-NN.png"/>
+  - [K-Nearest Neighbours - Wine dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/kNearestNeighbor_Wine.ipynb): Classifying wines according to their characteristic attributes, such as their *alcohol content*, *acidity* or *magnesium levels*, among others. **In-house implementation based on the k-NN algorithm criteria**, in which wines classification boundaries are delimited by colors. **Scikit-learn’s** implementation with **k-Fold Cross-Validation**. <p align="center"> <img src="/img/k-NNv2.png"/>
 
 - ### Clustering - Unsupervised Learning
 
