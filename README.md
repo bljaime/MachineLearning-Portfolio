@@ -47,7 +47,7 @@ This repository gathers some of my public Machine Learning work. Each project is
   
   - [Multi-Layer Perceptron - Wisconsin Breast Cancer dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/MultiLayerPerceptron_BreastCancer.ipynb): **Classifying** whether the identified **cells** present in digitalized images of breast mass are ***Benign*** or ***Malignant*** with a Multi-Layer Perceptron based on ***tensorflow.keras***.
 
-- ### Convolutional Neural Networks (CNN)
+- ### Convolutional Neural Networks (CNNs)
 
   - [Convolutional Neural Networks - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/ConvolutionalNN_MNIST.ipynb): **Classifying original and distorted handwritten numbers** in MNIST with Convolutional Neural Networks. Designing, training and results discusion achieved by a Convolutional Neural Network with ***tensorflow.keras***.
   
