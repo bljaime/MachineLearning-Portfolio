@@ -36,6 +36,13 @@ This repository gathers some of my public Machine Learning work. Each project is
 - ### Semi-Supervised Classifier
 
   - [K-Means - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/SemiSupervised_MNIST.ipynb): Classifying handwritten numbers using only a very small portion of the labels. **Exploratory Data Analysis**, **Semi-Supervised** approach (**K-Means algorithm with Scikit-learn**, assignment of labels to clusters according to the most frequent label of each cluster elements, checking only 0.25% of the labels) and implementation of a **k-NN** classifier to discuss both models performance.
+    
+- ### Gradient-Boosted Decision Trees
+
+  - [Ames House Prices using XGBoostRegressor](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/XGBoostRegressor%20-%20Ames%20House%20Prices.ipynb): Rapid prototyping solution for the 4-day Kaggle competition with which I won 3rd place. Through elaborate feature engineering and the use of an XGBoostRegressor, I was able to achieve a good RMSE for this type of problematic.
+    
+    
+    
   -----
   ## Neural Networks and Deep Learning:
 
