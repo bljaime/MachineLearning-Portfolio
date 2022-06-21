@@ -58,6 +58,10 @@ This repository gathers some of my public Machine Learning work. Each project is
   - [Convolutional Autoencoders - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/ConvolutionalAutoencoders_MNIST.ipynb): **Reconstruction** of handwritten **MNIST** numbers with Convolutional Autoencoders and **linear interpolations in latent space**. Architecture designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***. <img src="/img/interp.png"/>
   
   - [Convolutional Autoencoders - *Tiny ImageNet* dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/ConvolutionalAutoencoders_Tiny_imagenet.ipynb): **Reconstruction** of colored noisy images with Convolutional Autoencoders, ***Denoiser Autoencoder*** and **linear interpolation in latent space**. Designing, training and results discusion achieved by a Convolutional Autoencoder with ***tensorflow.keras***. <img src="/img/denoisCAE.png"/>
+    
+
+- ### Recurrent Neural Networks (RRNs)
+  - [LSTM - Fake News detection](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/FakeNews_TextClassification.ipynb): Development of a RNN to detect fake news, achieving a very high value for the chosen metric. The performance of various architectures and the effect of internal and external (hyper)parameters on the models have been evaluated via Iterative Search. Finally, a feature engineering is carried out to try to enrich the title with some of the words from the text.
 
   ## Personal Project
 
