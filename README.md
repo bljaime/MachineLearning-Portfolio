@@ -37,9 +37,13 @@ This repository gathers some of my public Machine Learning work. Each project is
 
   - [K-Means - MNIST dataset](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/SemiSupervised_MNIST.ipynb): Classifying handwritten numbers using only a very small portion of the labels. **Exploratory Data Analysis**, **Semi-Supervised** approach (**K-Means algorithm with Scikit-learn**, assignment of labels to clusters according to the most frequent label of each cluster elements, checking only 0.25% of the labels) and implementation of a **k-NN** classifier to discuss both models performance.
     
+- ### Feature Engineering & Tree-based algorithms
+    
+  - [Feature Engineering and Tree-based algorithms for predicting the Terrorist Group responsible for an attack](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/TerroristGroup_FeatEng%26Prediction.ipynb): Comprehensive descriptive analysis, processing, cleaning and preparation and feature engineering. Finally, although this is not the main objective of the work, baseline prediction of which terrorist group is behind a series of several attacks using Regression models and Tree-based algorithms (decision trees, random forests, etc.). Very good accuracies are obtained for how fast the algorithms are trained. (Spanish). <p align="center"> <img src="/img/terroristGroups.PNG"/>
+    
 - ### Gradient-Boosted Decision Trees
 
-  - [Ames House Prices using XGBoostRegressor](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/XGBoostRegressor%20-%20Ames%20House%20Prices.ipynb): Rapid prototyping solution for the 4-day Kaggle competition with which I won 3rd place. Through elaborate feature engineering and the use of an XGBoostRegressor, I was able to achieve a good RMSE for this type of problematic.
+  - [Ames House Prices using XGBoostRegressor](https://github.com/bljaime/MachineLearning-Portfolio/blob/master/notebook/XGBoostRegressor%20-%20Ames%20House%20Prices.ipynb): Rapid prototyping solution for the 4-day Kaggle competition with which I won 3rd place. Through elaborate feature engineering and the use of an XGBoostRegressor, I was able to achieve a good RMSE for this type of problematic. (Spanish and English).
     
     
     
