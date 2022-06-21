@@ -70,7 +70,6 @@ This repository gathers some of my public Machine Learning work. Each project is
 ## About me
 
 Jaime Blanco Linares.
-Computer Engineer.
-24 y/o, living in Madrid (Spain).
+Computer Engineer. Living in Madrid (Spain).
 
 Any comment, suggestion about the portfolio or collaboration proposal, will be thankfully received and replied at blancolinares.jaime@gmail.com
